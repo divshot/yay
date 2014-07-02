@@ -2,6 +2,13 @@
 
 Generate random, ridiculous names for anything. Yay!
 
+Examples:
+
+* immense-foodstuffs
+* salty-grapefruit
+* voiceless-nutritious
+* confused-menu
+
 ## Install
 
 ```
