@@ -1,0 +1,27 @@
+{
+  "name": "yay",
+  "version": "0.1.0",
+  "description": "Generate random, ridiculous names for anything. Yay!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/divshot/yay.git"
+  },
+  "keywords": [
+    "divshot",
+    "superstatic",
+    "names",
+    "generator",
+    "silly",
+    "random"
+  ],
+  "author": "Divshot",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/divshot/yay/issues"
+  },
+  "homepage": "https://github.com/divshot/yay"
+}
